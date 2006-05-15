@@ -4,7 +4,7 @@ use warnings;
 use strict;
 use Kwiki::Plugin '-Base';
 use mixin 'Kwiki::Installer';
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 const class_title => 'Background Save';
 const class_id => 'background_save';
